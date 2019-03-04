@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+ <table style="width:40%" Border="1">
+ <tr>
+	<td>Canvas</td>
+	<td><a href="https://www.google.com/">Products v </a></td>
+	<td><a href="https://www.google.com/">Resources</a> </td>
+	<td><a href="https://www.google.com/">Pricing</a> </td>
+	<td><a href="https://www.google.com/">About</a> </td>
+	<td><a href="https://www.google.com/">Contacts</a> </td>
+	<td><a href="https://accounts.google.com">log ln</a></td>
+	<th  bgcolor = "#33ffff"><a href="https://accounts.google.com/signup/v2/webcreateaccount?hl=en-GB&flowName=GlifWebSignIn&flowEntry=SignUp">sign Up</th>
+	
+ </tr>
+ </table>
+ </body>
+</html>
