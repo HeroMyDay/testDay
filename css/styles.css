@@ -153,6 +153,10 @@
   border-left: 4px dotted blue;
 }
 /* ===============border-width===============*/
+.css-border-width{
+  border-style: solid;
+  border-width: thin;
+}
 
 /* ===============border-Top-Width===============*/
 .css-border-twidth{
