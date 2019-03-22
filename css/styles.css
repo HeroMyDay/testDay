@@ -1,9 +1,238 @@
 
-/* CSS Properties
+/*
+   ==================================================
+                    CSS Properties
    ==================================================
 */
-
+/* ===============Width===============*/
 .css-width {
   width: 300px;
   background-color: lightgray;
 }
+/* ===============Height===============*/
+.css-height {
+  background-color: brown;
+  height: 25px;
+  display: inline-block;
+}
+/* ===============Min-Width===============*/
+.css-mwidth {
+  min-width: 500px;
+  background-color: darkgoldenrod;
+  display: inline-block;
+}
+/* ===============Max-Width===============*/
+.css-max-width{
+  max-width: 250px;
+  background-color:darkgray;  
+}
+/* ===============Min-Height===============*/
+.css-min-height{
+  min-height: 50px;
+  background-color: lightblue;
+}
+/* ===============Max-Height===============*/
+.css-max-height{
+  max-height:50px;
+  overflow: auto;
+  background-color: darkcyan;
+}
+/* ===============position===============*/
+.css-position{
+  position: absolute;
+  left: 150px;
+}
+/* ===============Right:11px;===============*/
+.css-right {
+  position: absolute;
+  right: 400px;
+  width: 100px;
+  height: 120px;
+  border: 3px solid blue;
+} 
+/* ===============Bottom===============*/
+/* position: fixed;  Rocker */
+.css-bottom {
+  width: 50%;
+  right: 400px;
+  bottom: 100px;
+  border: 3px solid #8AC007;
+} 
+
+/* ===============Left===============*/
+.css-left{
+  left: 40px;
+  background-color: #8AC007;
+}
+/* ===============Overflow===============*/
+/* ======auto/scroll/hidden/visible====== */
+.css-overflow{
+  background-color: lightblue;
+  width: 110px;
+  height: 110px;
+  overflow: auto;
+}
+/* ===============Float===============*/
+/* Float img */
+.css-float {
+  background-color: #8AC007;
+    float: right;
+  }
+/* ===============visibility===============*/
+
+/*
+   ==================================================
+                    The Box Model
+   ==================================================
+*/
+
+/* ===============Margin===============*/
+.css-margin{
+  margin: 10px;
+  border: 1px solid #8AC007;
+}
+/* ===============Margin-Top===============*/
+.css-margin-top {
+  margin-top: 50px;
+}
+/* ===============Margin-Right===============*/
+.css-margin-right{
+  margin-right: 800px;
+}
+/* ===============CSS-Bottom===============*/
+.css-bottom{
+  margin-bottom: 25px;
+}
+/* ===============Margin Left===============*/
+.css-margin-left {
+  margin-left: 30px;
+}
+/* ===============padding===============*/
+.css-padding{
+  padding: 70px;
+  border: 1px solid greenyellow;
+}
+/* ===============Padding-Top===============*/
+.css-padding-top {
+  border: 1px solid red; 
+  padding-top: 25px;
+}
+/* ===============Padding-Right===============*/
+.css-padding-right{
+  border: 1px solid red; 
+  padding-right: 150px;
+}
+/* ===============padding-bottom===============*/
+.css-padding-bottom{
+  border: 1px solid #8AC007; 
+  padding-bottom: 25px;
+}
+/* ===============padding-left===============*/
+.css-padding-left{
+  border: 1px solid blue; 
+  padding-left: 50px;
+}
+/* ===============border===============*/
+.css-border{
+  border: 4px dotted blue;
+}
+/* ===============border-top===============*/
+.css-border-top{
+  border-top: 4px dotted blue;
+}
+/* ===============border-right===============*/
+.css-border-right{
+  border-right: 4px dotted blue;
+}
+/* ===============border ===============*/
+.css-border-bottom{
+  border-bottom: 4px dotted blue;
+}
+/* =============== ===============*/
+.css-border-left{
+  border-left: 4px dotted blue;
+}
+/* ===============border-width===============*/
+
+/* ===============border-Top-Width===============*/
+.css-border-twidth{
+  border-top-style: solid;
+  border-top-width: thin;
+}
+/* ===============border-right-width===============*/
+.css-border-rwidth{
+  border-right-style: solid;
+  border-right-width: thick;
+}
+/* ===============border-botton-width===============*/
+.css-border-bottom-width{
+  border-bottom-style: solid;
+  border-bottom-width: thick;
+}
+/* ===============border-left-width===============*/
+.css-border-left-width{
+  border-left-style: solid;
+  border-left-width: thin;
+}
+/* ===============border-style===============*/
+.css-style {
+  border-style: dotted;
+}
+/* ===============border-Top-style===============*/
+.css-border-tstyle{
+  border-style: solid;
+  border-top-style: dotted;
+}
+/* ===============border-right-style===============*/
+.css-border-rightS{
+  border-style: solid;
+  border-right-style: dotted;
+}
+/* ===============border-bottom-style===============*/
+.css-border-rightS{
+  border-style: solid;
+  border-bottom-style: dotted;
+}
+/* ===============border-left-style===============*/
+.css-border-lestyle{
+  border-style: solid;
+  border-left-style: dotted;
+}
+/* ===============border-color===============*/
+.css-border-color{
+  border-style: solid;
+  border-color: coral;
+}
+
+/* ===============border-top-color===============*/
+.css-border-top-color{
+  border-style: solid;
+  border-top-color: coral;
+}
+/* ===============border-right-color===============*/
+.css-border-right-color{
+  border-style: solid;
+  border-right-color: coral;
+}
+
+/* ===============border-botton-color===============*/
+.css-border-bottom-color{
+  border-style: solid;
+  border-bottom-color: coral;
+}
+
+/* ===============border-left-color===============*/
+.css-border-left-color{
+  border-style: solid;
+  border-left-color: coral;
+}
+
+/* =============== ===============*/
+
+
+
+
+
+
+
+
